@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/balena-io-projects/simple-server-node#readme",
   "dependencies": {
-    "express": "*",
+    "express": "4.17.1",
     "ejs": "*"
   }
 }
